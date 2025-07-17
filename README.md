@@ -19,3 +19,11 @@ A lightweight command-line chatbot built in Python using OpenAI's API, designed 
 
 ## 📁 Project Structure
 
+```
+terminal_ai_chatbot/
+├── chatbot.py
+├── config.py
+├── prompts.py
+├── requirements.txt
+└── README.md
+```
